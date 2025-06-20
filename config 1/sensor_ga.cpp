@@ -1,7 +1,6 @@
 // sensor_ga.cpp
 // ------------------------------------------------------------
 // Genetic Algorithm for Optimal Sensor Placement (Coverage + Connectivity)
-// Author: Cascade AI assistant (2025)
 // ------------------------------------------------------------
 //  Dependencies:
 //   • C++17 compliant compiler (e.g. g++ 11+, MSVC 2019+, clang 12+)
